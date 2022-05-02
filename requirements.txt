@@ -1,5 +1,4 @@
 aiogram
-sqlite3
 requests
 bs4
 re
