@@ -1,0 +1,7 @@
+logging
+aiogram
+random
+sqlite3
+requests
+bs4
+Re
