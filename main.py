@@ -4,7 +4,7 @@ import random
 import sqlite3
 
 
-bot = Bot(token='5369510222:AAGqtdeJfsG8_OhXA0fVa1jiWcRNofWAHkU')
+bot = Bot(token='') #here must be a token
 dp = Dispatcher(bot)
 logging.basicConfig(level=logging.INFO)
 
